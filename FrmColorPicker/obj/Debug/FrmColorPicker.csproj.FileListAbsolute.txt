@@ -1,0 +1,10 @@
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\bin\Debug\FrmColorPicker.exe.config
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\bin\Debug\FrmColorPicker.exe
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\bin\Debug\FrmColorPicker.pdb
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\obj\Debug\FrmColorPicker.csprojAssemblyReference.cache
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\obj\Debug\FrmColorPicker.FrmColorPicker.resources
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\obj\Debug\FrmColorPicker.Properties.Resources.resources
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\obj\Debug\FrmColorPicker.csproj.GenerateResource.cache
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\obj\Debug\FrmColorPicker.csproj.CoreCompileInputs.cache
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\obj\Debug\FrmColorPicker.exe
+D:\kuliah\smstr 5\Pemrograman Jaringan\UTS\FrmColorPicker\FrmColorPicker\obj\Debug\FrmColorPicker.pdb
